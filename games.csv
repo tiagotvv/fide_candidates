@@ -1,0 +1,57 @@
+GameID,Round,White,Black,Result,Opening Det,ECO,Opening
+0,1,Jan-Krzysztof Duda,Richard Rapport,1/2-1/2,Sicilian Defense: Taimanov Variation,B44,Sicilian Defense
+1,1,Ding Liren,Ian Nepomniachtchi,0-1,English Opening: King's English Variation,A20,English Opening
+2,1,Fabiano Caruana,Hikaru Nakamura,1-0,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+3,1,Teimour Radjabov,Alireza Firouzja,1/2-1/2,Queen's Gambit Declined: Vienna Variation,D37,Queen's Gambit Declined
+4,2,Richard Rapport,Alireza Firouzja,1/2-1/2,Sicilian Defense: Chekhover Variation,B53,Sicilian Defense
+5,2,Hikaru Nakamura,Teimour Radjabov,1-0,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+6,2,Ian Nepomniachtchi,Fabiano Caruana,1/2-1/2,"Italian Game: Giuoco Pianissimo, Normal",C50,Italian Game
+7,2,Jan-Krzysztof Duda,Ding Liren,1/2-1/2,"Italian Game: Classical Variation, Giuoco Pianissimo",C53,Italian Game
+8,3,Ding Liren,Richard Rapport,1/2-1/2,"Grünfeld Defense: Exchange Variation, Classical Variation",D86,Grünfeld Defense
+9,3,Fabiano Caruana,Jan-Krzysztof Duda,1/2-1/2,Sicilian Defense: Najdorf Variation,B90,Sicilian Defense
+10,3,Teimour Radjabov,Ian Nepomniachtchi,1/2-1/2,Catalan Opening: Open Defense,E04,Catalan Opening
+11,3,Alireza Firouzja,Hikaru Nakamura,1/2-1/2,Nimzo-Indian Defense: Classical Variation,E32,Nimzo-Indian Defense
+12,4,Richard Rapport,Hikaru Nakamura,1/2-1/2,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+13,4,Ian Nepomniachtchi,Alireza Firouzja,1-0,Sicilian Defense: Najdorf Variation,B90,Sicilian Defense
+14,4,Jan-Krzysztof Duda,Teimour Radjabov,1/2-1/2,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+15,4,Ding Liren,Fabiano Caruana,1/2-1/2,"Queen's Gambit Declined: Ragozin Defense, Alekhine Variation",D38,Queen's Gambit Declined
+16,5,Fabiano Caruana,Richard Rapport,1/2-1/2,Sicilian Defense: Taimanov Variation,B46,Sicilian Defense
+17,5,Teimour Radjabov,Ding Liren,1/2-1/2,Catalan Opening,E00,Catalan Opening
+18,5,Alireza Firouzja,Jan-Krzysztof Duda,1/2-1/2,Russian Game: Classical Attack,C42,Russian Game
+19,5,Hikaru Nakamura,Ian Nepomniachtchi,1/2-1/2,"Russian Game: Classical Attack, Chigorin Variation, Main Line",C42,Russian Game
+20,6,Teimour Radjabov,Richard Rapport,1/2-1/2,Sicilian Defense: Taimanov Variation,B46,Sicilian Defense
+21,6,Alireza Firouzja,Fabiano Caruana,0-1,Catalan Opening: Closed,E06,Catalan Opening
+22,6,Hikaru Nakamura,Ding Liren,1/2-1/2,"Italian Game: Classical Variation, Giuoco Pianissimo",C53,Italian Game
+23,6,Ian Nepomniachtchi,Jan-Krzysztof Duda,1-0,King's Indian Attack: Keres Variation,A07,King's Indian Attack
+24,7,Richard Rapport,Ian Nepomniachtchi,0-1,"Russian Game: Classical Attack, Staunton Variation",C42,Russian Game
+25,7,Jan-Krzysztof Duda,Hikaru Nakamura,1/2-1/2,"Nimzo-Indian Defense: Normal Variation, Bishop Attack",E47,Nimzo-Indian Defense
+26,7,Ding Liren,Alireza Firouzja,1/2-1/2,English Opening: King's English Variation,A20,English Opening
+27,7,Fabiano Caruana,Teimour Radjabov,1-0,"Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line",B32,Sicilian Defense
+28,8,Richard Rapport,Jan-Krzysztof Duda,1-0,Four Knights Game,C47,Four Knights Game
+29,8,Ian Nepomniachtchi,Ding Liren,1/2-1/2,Four Knights Game: Scotch Variation Accepted,C47,Four Knights Game
+30,8,Hikaru Nakamura,Fabiano Caruana,1-0,"Ruy Lopez: Open, Dilworth Variation",C82,Ruy Lopez
+31,8,Alireza Firouzja,Teimour Radjabov,1/2-1/2,"Italian Game: Giuoco Pianissimo, Normal",C50,Italian Game
+32,9,Alireza Firouzja,Richard Rapport,1-0,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+33,9,Teimour Radjabov,Hikaru Nakamura,1-0,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+34,9,Fabiano Caruana,Ian Nepomniachtchi,1/2-1/2,"Russian Game: Classical Attack, Staunton Variation",C42,Russian Game
+35,9,Ding Liren,Jan-Krzysztof Duda,1-0,"English Opening: Agincourt Defense, Catalan Defense Accepted",A13,English Opening
+36,10,Richard Rapport,Ding Liren,0-1,"Ruy Lopez: Morphy Defense, Anderssen Variation",C77,Ruy Lopez
+37,10,Jan-Krzysztof Duda,Fabiano Caruana,1-0,"Italian Game: Classical Variation, Giuoco Pianissimo",C53,Italian Game
+38,10,Ian Nepomniachtchi,Teimour Radjabov,1/2-1/2,Catalan Opening: Closed,E06,Catalan Opening
+39,10,Hikaru Nakamura,Alireza Firouzja,1-0,"Sicilian Defense: Najdorf Variation, English Attack",B90,Sicilian Defense
+40,11,Hikaru Nakamura,Richard Rapport,1/2-1/2,"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation",B33,Sicilian Defense
+41,11,Alireza Firouzja,Ian Nepomniachtchi,0-1,Russian Game: Kaufmann Attack,C42,Russian Game
+42,11,Teimour Radjabov,Jan-Krzysztof Duda,1/2-1/2,"English Opening: Anglo-Indian Defense, King's Knight Variation",A15,English Opening
+43,11,Fabiano Caruana,Ding Liren,0-1,"Ruy Lopez: Closed, Anti-Marshall",C88,Ruy Lopez
+44,12,Richard Rapport,Fabiano Caruana,1/2-1/2,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+45,12,Ding Liren,Teimour Radjabov,0-1,"Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense",E48,Nimzo-Indian Defense
+46,12,Jan-Krzysztof Duda,Alireza Firouzja,1/2-1/2,Semi-Slav Defense: Stoltz Variation,D45,Semi-Slav Defense
+47,12,Ian Nepomniachtchi,Hikaru Nakamura,1/2-1/2,"Ruy Lopez: Open Berlin Defense, l'Hermet Variation",C67,Ruy Lopez
+48,13,Ian Nepomniachtchi,Richard Rapport,1/2-1/2,"Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation",B67,Sicilian Defense
+49,13,Hikaru Nakamura,Jan-Krzysztof Duda,1-0,"Sicilian Defense: Najdorf Variation, English Attack",B90,Sicilian Defense
+50,13,Alireza Firouzja,Ding Liren,1/2-1/2,Four Knights Game: Scotch Variation Accepted,C47,Four Knights Game
+51,13,Teimour Radjabov,Fabiano Caruana,1/2-1/2,Catalan Opening: Open Defense,E04,Catalan Opening
+52,14,Richard Rapport,Teimour Radjabov,0-1,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+53,14,Fabiano Caruana,Alireza Firouzja,0-1,Ruy Lopez: Berlin Defense,C65,Ruy Lopez
+54,14,Ding Liren,Hikaru Nakamura,1-0,Tarrasch Defense: Symmetrical Variation,E10,Tarrasch Defense
+55,14,Jan-Krzysztof Duda,Ian Nepomniachtchi,1/2-1/2,"Russian Game: Modern Attack, Symmetrical Variation",C43,Russian Game
