@@ -1,3 +1,4 @@
+streamlit
 pandas
 numpy
 chess==1.9.2
