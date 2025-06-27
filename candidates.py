@@ -16,7 +16,7 @@ st.markdown('Eight players take part: **Ian Nepomniachtchi** (2021 Match runner 
 **Jan-Krzysztof Duda** (World Cup winner), **Alireza Firouzja**  (Grand Swiss winner), **Fabiano Caruana** (Grand Swiss runner up)\
 , **Hikaru Nakamura**  (Grand Prix winner), **Richard Rapport** (Grand Prix runner up), **Ding Liren** (highest rating in May 2022) and \
 **Teimour Radjabov** (FIDE wild card)')
-@st.cache
+@st.cache_data
 def load_data():
     games = pd.read_csv('games.csv', encoding='utf-8')
     detailed_games = pd.read_csv('detailed_games.csv', encoding='utf-8')
